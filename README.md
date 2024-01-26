@@ -29,7 +29,7 @@ Key Performance Indicators Employed:
 ➡️ Magnitude of Net Error = Absolute Error
 ➡️ Forecast Accuracy Percentage
 
-
+Power Bi dashboard: https://app.powerbi.com/view?r=eyJrIjoiYjI5M2IzNGMtOTA2My00NzRlLWIxNGItNzcwNDA3MDBjZjhlIiwidCI6ImM2ZTU0OWIzLTVmNDUtNDAzMi1hYWU5LWQ0MjQ0ZGM1YjJjNCJ9
 
 
 
